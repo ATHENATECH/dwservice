@@ -27,3 +27,6 @@ wget https://raw.githubusercontent.com/ATHENATECH/dwservice/main/dwservice.sh
 sudo chmod +x dwservice.sh
 
 sudo ./dwservice.sh
+
+
+Plus d'info sur DWService : https://www.dwservice.net/fr/home.html
