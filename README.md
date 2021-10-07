@@ -14,10 +14,16 @@ pour télécharger le script qui va télécharger DWService, mettre en place les
 
 Pour raison de sécurité, le DWService, mis en place par notre script, ne s'exécutera pas au démarrage de votre serveur. Nous préférons laisser l'administrateur choisir le moment pour donner la prise en main à distance à nos supports techniques.  
 
-# Exemple de commande :
+Exemple de commande :
+
 sudo sav-start
+
 sudo sav-stop
+
 sudo sav-end
+
 wget https://raw.githubusercontent.com/ATHENATECH/dwservice/main/dwservice.sh
+
 sudo chmod +x dwservice.sh
+
 sudo ./dwservice.sh
