@@ -1,5 +1,5 @@
 # dwservice
-Le service d'assistance technique a besoin de prendre la main distance pour vous aider à résoudre un problème technique. Nous vous donnerons quelque commande de serveur Linux pour fournir la prise en main aux supports.
+Dans le cas où le service d'assistance technique a besoin de prendre la main distance pour vous aider à résoudre un problème technique. Nous vous donnerons quelque commande de serveur Linux pour fournir la prise en main aux supports.
 
 L'application utilisé pour la prise en main à distance est DWService.  Choisis pour sa compatibilité sur des serveur Linux ne disposant pas d'interface graphique. Certain de nos produits disposent de cette application, comme DATASAVE ou DATASELF.
 
